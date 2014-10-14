@@ -10,7 +10,7 @@ public class StubProductDao implements ProductDao {
 
 	public boolean add(Product product) {
 		// TODO Auto-generated method stub
-		return true;
+		return false;
 	}
 
 
