@@ -1,6 +1,6 @@
 package inventory.view;
 
-public class CommodityX {
+public class Commodity {
 
 	private String index;
 	private String name;
